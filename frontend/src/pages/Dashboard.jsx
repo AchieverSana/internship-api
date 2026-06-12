@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const API = 'https://glorious-couscous-g46wrpvxjrx5cj95-5000.app.github.dev/api/v1'
+const API = 'https://internship-api-dqrh.onrender.com/api/v1'
 
 const emptyForm = { name: '', description: '', price: '', category: '', stock: '' }
 
